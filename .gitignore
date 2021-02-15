@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# manual
+token.pickle
+01-screenshots/*
+02-resized_images/*
+03-labels/*
